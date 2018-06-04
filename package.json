@@ -1,0 +1,13 @@
+{
+  "name": "IndecisionApp",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "repository": "None",
+  "author": "MO",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
